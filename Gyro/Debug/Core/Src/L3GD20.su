@@ -1,0 +1,2 @@
+../Core/Src/L3GD20.c:76:6:L3GD20_Init	8	static
+../Core/Src/L3GD20.c:123:6:L3GD20_loop	104	static
